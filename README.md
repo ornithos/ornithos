@@ -4,3 +4,5 @@ Here's the public things I've been working in since I joined GitHub. For the top
 <img src="https://stats.quine.sh/a1x/languages-over-time?theme=dark", width="45%">
 <img src="https://stats.quine.sh/a1x/topics-over-time?theme=dark", width="45%">
 </p>
+
+(in case you're interested, widgets available at [quine.sh](https://quine.sh))
